@@ -18,10 +18,10 @@ export const PROJECTS: Project[] = [
     description: "Ứng dụng đặt vé xem phim trên thiết bị di động. Người dùng có thể xem thông tin phim, chọn suất chiếu, chọn ghế ngồi theo thời gian thực và thanh toán. Hệ thống backend xử lý đặt vé đồng thời và quản lý lịch chiếu.",
     techStack: ["Java Android", "Spring Boot", "JWT", "mongodb"],
     images: [
-      "./anh1.png", 
-      "./anh2.png", 
-      "./anh3.png", 
-      "./anh4.png", 
+      "/anh1.png", 
+      "/anh2.png", 
+      "/anh3.png", 
+      "/anh4.png", 
     ],
     demoUrl: "",
     repoUrl: "https://github.com/TranTrongTu-2710/cinema_phat_trien_ung_dung_di_dong"
@@ -32,7 +32,7 @@ export const PROJECTS: Project[] = [
     role: "Backend Developer",
     description: "Hệ thống thương mại điện tử dựa trên kiến trúc Microservices. Xử lý đặt hàng, thanh toán, và quản lý kho vận",
     techStack: ["Java 17", "Spring Boot", "MySQL"],
-    images: ["./anh5.png", "./image.png"],
+    images: ["/anh5.png", "/image.png"],
     demoUrl: "#",
     repoUrl: "https://github.com/TranTrongTu-2710/shop-app"
   }

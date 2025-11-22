@@ -23,7 +23,7 @@ const Hero: React.FC = () => {
           >
             <div className="w-60 h-60 rounded-full border-4 border-emerald-500/20 p-1 relative">
               <img 
-                src="./avatar.jpg" 
+                src="/avatar.jpg" 
                 alt="Avatar" 
                 className="w-full h-full rounded-full object-cover hover:grayscale-0 transition-all duration-500"
               />
